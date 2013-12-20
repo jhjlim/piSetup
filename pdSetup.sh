@@ -19,4 +19,5 @@ cd /home/pi/pd
 sudo cp config.txt /boot/
 cd /home/pi/pd
 sudo cp bigText.sh /bin/
-
+cd /home/pi/pd/
+sudo cp runPd.sh /bin/
